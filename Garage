@@ -1,5 +1,6 @@
 #include <math.h>
-
+#include <Arduino.h>
+#include <Wire.h>
 #include <SoftwareSerial.h>  // libreria que permite establecer pines digitales
         // para comunicacion serie
 
